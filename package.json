@@ -1,7 +1,7 @@
 {
   "name": "react_portfolio",
   "version": "0.1.0",
-  "homepage": "https://lesmodrzejewski.github.io/lesmodrzejewski.github.io",
+  "homepage": "https://lesmodrzejewski.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
