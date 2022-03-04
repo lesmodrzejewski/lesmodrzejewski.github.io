@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/lesmodrzejewski.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/lesmodrzejewski.github.io/static/js/main.a07a2799.js",
-    "static/js/787.a2cb61a6.chunk.js": "/lesmodrzejewski.github.io/static/js/787.a2cb61a6.chunk.js",
-    "static/media/logo.svg": "/lesmodrzejewski.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/lesmodrzejewski.github.io/index.html",
-    "main.073c9b0a.css.map": "/lesmodrzejewski.github.io/static/css/main.073c9b0a.css.map",
-    "main.a07a2799.js.map": "/lesmodrzejewski.github.io/static/js/main.a07a2799.js.map",
-    "787.a2cb61a6.chunk.js.map": "/lesmodrzejewski.github.io/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.52c4f82f.js",
+    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.52c4f82f.js.map": "/static/js/main.52c4f82f.js.map",
+    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a07a2799.js"
+    "static/js/main.52c4f82f.js"
   ]
 }
